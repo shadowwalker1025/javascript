@@ -1,6 +1,6 @@
 function fact() {
    // const num = parseInt(prompt('Enter an integer: '));
-    let fact = 1 ,num;
+    let fact = 1 ,num=5;
     for (i=1;i<=num;i++){
         fact = fact * i;
     }
